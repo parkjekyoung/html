@@ -1,0 +1,48 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+
+body {
+ background-image: url(img/bg.jpg);    
+}
+
+nav > ul > li{
+    display: inline-block;
+    padding: 25px 50px;
+    line-height: 50px;
+    font-size: 15px;
+    color: white;
+}
+
+
+nav > ul {
+    text-align: center;
+    text-decoration: none;
+}
+
+#roll-section > div {
+    display: inline-flex;
+    margin-left: 20px;
+    padding: 20px;
+    margin-top: 200px;
+}
+
+section > ul > li {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+#introduce-section > div {
+    display: flex;
+    margin-left: 200px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding-top: 500px;
+}
